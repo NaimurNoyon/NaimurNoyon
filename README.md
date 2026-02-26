@@ -1,16 +1,20 @@
-## Hi there 👋
+# Md. Naimur Rahman Noyon
 
-<!--
-**NaimurNoyon/NaimurNoyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I’m Md. Naimur Rahman Noyon, a passionate Flutter developer with over 3 years of experience in building mobile applications.  
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 BSc in Computer Science  
+- 💻 3+ years of experience in Flutter development  
+- 📱 Enthusiastic about creating beautiful and functional mobile apps  
+- 🚀 Always exploring new technologies and improving my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Flutter & Dart  
+- Firebase integration  
+- RESTful APIs  
+- State management (Provider, Bloc, Getx)  
+- UI/UX implementation  
+
+## Contact
+- GitHub: [https://github.com/NaimurNoyon](https://github.com/NaimurNoyon)  
+- Email: naimurrahmannoyon@gmail.com
